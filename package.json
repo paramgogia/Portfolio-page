@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-page",
+  "version": "1.0.0",
+  "description": "Repo for portfolio page created earlier using CSS\r <br>\r Author - Param gogia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
